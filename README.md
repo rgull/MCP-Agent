@@ -1,4 +1,4 @@
-# 🤖 AI Agents Tutorials
+# 🤖 AI Agents with MCP
 
 A comprehensive collection of AI agent implementations showcasing various frameworks, models, and use cases. This repository contains practical examples of building intelligent agents using Phidata and MCP (Model Context Protocol).
 
